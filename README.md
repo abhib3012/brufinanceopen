@@ -1,4 +1,3 @@
-# whrrl
+# Bru Finance
 
-
-npm start
+Please get in touch with abhishek@bru.finance to know more/get involved.
